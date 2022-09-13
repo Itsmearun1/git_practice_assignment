@@ -1,7 +1,7 @@
 let str="naman"
 let N=5;
 let org_str="";
-for(i=0;i<=N-1;i--){
+for(i=0;i<=N-1;i++){
         org_str+=(str[i])
     }
     
